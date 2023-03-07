@@ -11,7 +11,9 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        Хули ты такой любопытный, оболтус?
+        <h1>
+          А что это ты такой любопытный, оболтус?
+        </h1>
       </main>
 
     </div>
